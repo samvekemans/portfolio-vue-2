@@ -8,7 +8,7 @@ export default {
     console.log(this.$route.params.work);
     if (!this.$route.params.work) {
       const routeData = await this.$axios.$get(
-        `/data/data.json`
+        `https://samvekemans-portfolio.herokuapp.com/data/data.json`
       );
       this.$router.push("/my-work/" + routeData.data[0].attributes.slug);
     }

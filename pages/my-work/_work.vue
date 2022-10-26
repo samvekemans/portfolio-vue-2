@@ -62,7 +62,7 @@ export default {
     };
   },
   async fetch() {
-    const data = await this.$axios.$get(`/data/data.json`);
+    const data = await this.$axios.$get(`https://samvekemans-portfolio.herokuapp.com/data/data.json`);
     this.data = data.data.filter(data => data.attributes.slug === this.$route.params.work);
     this.title = this.data[0].attributes.name;
     this.items = this.data[0].attributes.carousel;

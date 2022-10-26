@@ -77,7 +77,7 @@ export default {
     }
   },
   async fetch() {
-    const data = await this.$axios.$get(`/data/data.json`);
+    const data = await this.$axios.$get(`https://samvekemans-portfolio.herokuapp.com/data/data.json`);
     this.workItems = data.data;
   },
   methods: {
