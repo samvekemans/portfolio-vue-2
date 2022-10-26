@@ -1,8 +1,8 @@
-export const Action = () => import('../../components/action.vue' /* webpackChunkName: "components/action" */).then(c => wrapFunctional(c.default || c))
-export const Footer = () => import('../../components/footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
-export const HeaderComponentWork = () => import('../../components/header-component-work.vue' /* webpackChunkName: "components/header-component-work" */).then(c => wrapFunctional(c.default || c))
-export const HeaderComponent = () => import('../../components/header-component.vue' /* webpackChunkName: "components/header-component" */).then(c => wrapFunctional(c.default || c))
-export const NavComponent = () => import('../../components/nav-component.vue' /* webpackChunkName: "components/nav-component" */).then(c => wrapFunctional(c.default || c))
+export { default as Action } from '../../components/action.vue'
+export { default as Footer } from '../../components/footer.vue'
+export { default as HeaderComponentWork } from '../../components/header-component-work.vue'
+export { default as HeaderComponent } from '../../components/header-component.vue'
+export { default as NavComponent } from '../../components/nav-component.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
