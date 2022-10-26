@@ -1,0 +1,81 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "attributes" : {
+                "name":"The best pizza ever",
+                "slug":"best-pizza",
+                "description":"this is the best pizza",
+                "information": "Mijn eerste vormgeef project, ik kreeg de opdracht om een one-page website vorm te geven over mijn favoriete eten. Hierbij kreeg ik een stijl, mijn stijl voor dit project was: lagering and overprinting. Ik vond het erg leuk om dit te maken. Naar mijn mening is dit ook één van de mooiste eindresultaten die ik heb gehad. De kleuren en de manier waarop ik de stijl heb toegepast vind ik erg leuk.",
+                "indeximage" : "/pizza-logo.png",
+                "image" : "/pizza-logo.png",
+                "banner" : "/pizza-banner.png",
+                "background" : "/pizza-bg.png",
+                "carousel" : [
+                    {"id":1, "image": "/the-best-pizza-ever.jpg"}
+                ]
+            }
+        },
+        {
+            "id" : 2,
+            "attributes" : {
+                "name": "Sumibu webshop",
+                "slug": "sumibu",
+                "description": "Namaken van een webshop",
+                "information": "Ik kreeg de opdracht om een website na te maken. Dit moest ik doen door middel van html, css en javascript. De webpagina moest uiteindelijk responsive worden en twee pagina’s van de originele website bevatten. Ik heb de homepage en de stoppagina nagemaakt. Ik heb erg veel plezier gehad maar ook veel geleerd. De opdracht was om de website na te maken maar ook zelf keuzes te maken met wat jij op je eigen website zou doen. Ik ben erg trots op het eindresultaat. Het was ook erg leuk om te doen. Vanuit deze opdracht kwam dan ook de motivatie om deze website te gaan programmeren.",
+                "indeximage" : "/smib-logo.png",
+                "image" : "/smib-logo.png",
+                "banner" : "/smib-banner.png",
+                "background" : "/smib-bg.png",
+                "carousel" : [
+                    {"id":1, "image": "/desktop-pagina-1.png"},
+                    {"id":2, "image": "/desktop-pagina-2.png"},
+                    {"id":3, "image": "/desktop-pagina-3.png"},
+                    {"id":4, "image": "/desktop-footer.png"}
+                ]
+            }
+        },
+        {
+            "id" : 3,
+            "attributes" : {
+                "name": "Gemeente Amsterdam",
+                "slug": "gemeente-amsterdam",
+                "description": "Boekzoeker voor in de bieb van amsterdam",
+                "information": "Hier kreeg ik de opdracht om een stappenplan te maken voor in de Amsterdamse bibliotheek. De doelgroep hierbij was studenten. Het doel was dan ook om de studenten meer te laten lezen en dus het perfecte boek te vinden. Ik heb gebruik gemaakt van een stappenplan.",
+                "indeximage" : "/boek-logo.png",
+                "image" : "/boek-logo.png",
+                "banner" : "/boek-banner.png",
+                "background" : "/boek-bg.png",
+                "carousel" : [
+                    {"id":1, "image": "/pagina-1.png"},
+                    {"id":2, "image": "/pagina-2.png"},
+                    {"id":3, "image": "/pagina-3.png"},
+                    {"id":4, "image": "/pagina-4.png"},
+                    {"id":4, "image": "/pagina-5.png"},
+                    {"id":4, "image": "/pagina-6.png"},
+                    {"id":4, "image": "/pagina-7.png"},
+                    {"id":4, "image": "/pagina-8.png"}        
+                ]
+            }
+        },
+        {
+            "id" : 4,
+            "attributes" : {
+                "name": "Gotta clean",
+                "slug": "gotta-clean",
+                "description": "De manier om rommel in een studentenhuis opgeruimd te krijgen",
+                "information": "We kregen de opdracht om een irritatie onder huisgenoten te verminderen. Wij hebben gekozen voor rommel in de keuken in studentenhuizen. <br/> <strong> Het concept </strong> <br/> Ons concept bestaat uit een competitief systeem die de gebruikers door middel van een puntentelling de mogelijkheid geeft een beloning te winnen voor de taken die zij hebben volbracht. Wij willen er voor zorgen dat de afwas sneller wordt schoongemaakt en opgeruimd, om zo de irritatie onder de huisgenoten te verminderen. Met ons concept worden de studenten op een positieve manier gestimuleerd, krijgen erkenning voor de taken die zij volbrengen en worden beloond voor hun inzet.",
+                "indeximage" : "/boek-logo.png",
+                "image" : "/boek-logo.png",
+                "banner" : "/boek-banner.png",
+                "background" : "/boek-bg.png",
+                "carousel" : [
+                    {"id":2, "image": "/gotta-clean1.png"},
+                    {"id":2, "image": "/gotta-clean2.png"},
+                    {"id":2, "image": "/gotta-clean3.png"},       
+                    {"id":2, "image": "/gotta-clean4.png"}       
+                ]
+            }
+        }
+    ]
+}
