@@ -1,7 +1,10 @@
 {
   "name": "portfolio",
-  "version": "17.0.0",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "nuxt",
     "postinstall": "nuxt build",
