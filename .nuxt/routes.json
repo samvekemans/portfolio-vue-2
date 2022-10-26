@@ -1,0 +1,45 @@
+[
+  {
+    "name": "about-me",
+    "path": "/about-me",
+    "component": "/Users/samvekemans/portfolio-vue-2/pages/about-me.vue",
+    "chunkName": "pages/about-me",
+    "_name": "_2b19b81c"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/samvekemans/portfolio-vue-2/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_4a878614"
+  },
+  {
+    "path": "/my-work",
+    "component": "/Users/samvekemans/portfolio-vue-2/pages/my-work.vue",
+    "chunkName": "pages/my-work",
+    "children": [
+      {
+        "name": "my-work",
+        "path": "",
+        "component": "/Users/samvekemans/portfolio-vue-2/pages/my-work/index.vue",
+        "chunkName": "pages/my-work/index",
+        "_name": "_6b2ba22a"
+      },
+      {
+        "name": "my-work-work",
+        "path": ":work",
+        "component": "/Users/samvekemans/portfolio-vue-2/pages/my-work/_work.vue",
+        "chunkName": "pages/my-work/_work",
+        "_name": "_0204c709"
+      }
+    ],
+    "_name": "_7303d330"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/samvekemans/portfolio-vue-2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_68ef1028"
+  }
+]

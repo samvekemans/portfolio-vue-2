@@ -1,0 +1,17 @@
+{
+  "Action": {
+    "description": "Auto imported from components/action.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "HeaderComponentWork": {
+    "description": "Auto imported from components/header-component-work.vue"
+  },
+  "HeaderComponent": {
+    "description": "Auto imported from components/header-component.vue"
+  },
+  "NavComponent": {
+    "description": "Auto imported from components/nav-component.vue"
+  }
+}
